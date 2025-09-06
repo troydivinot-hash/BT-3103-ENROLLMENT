@@ -1,0 +1,11 @@
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\bin\Debug\net8.0\Hospital.Group1.Model.deps.json
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\bin\Debug\net8.0\Hospital.Group1.Model.dll
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\bin\Debug\net8.0\Hospital.Group1.Model.pdb
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\Hospital.Group1.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\Hospital.Group1.Model.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\Hospital.Group1.Model.AssemblyInfo.cs
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\Hospital.Group1.Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\Hospital.Group1.Model.dll
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\refint\Hospital.Group1.Model.dll
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\Hospital.Group1.Model.pdb
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.Model\obj\Debug\net8.0\ref\Hospital.Group1.Model.dll
