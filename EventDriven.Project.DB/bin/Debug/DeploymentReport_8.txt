@@ -1,0 +1,31 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Account]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Account].[CustomerID] is being dropped, data loss could occur.
+       The column [dbo].[Account].[ClientId] on table [dbo].[Account] must be added, but the column has no default value and
+         does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Account] (Default Constraint)
+       unnamed constraint on [dbo].[Account] (Foreign Key)
+     Recreate table
+       [dbo].[Account] (Table)
+     Create
+       [dbo].[GetClientAccountDetails] (Procedure)
+       [dbo].[GetClientAccountDetailsById] (Procedure)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[Account] (Foreign Key)
+
+The column [dbo].[Account].[CustomerID] is being dropped, data loss could occur.
+The column [dbo].[Account].[ClientId] on table [dbo].[Account] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

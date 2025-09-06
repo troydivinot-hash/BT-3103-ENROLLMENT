@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Account] (Table)
+       [dbo].[Client] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Account] (Default Constraint)
+       Foreign Key: unnamed constraint on [dbo].[Account] (Foreign Key)
+       [dbo].[CreateClientAccount] (Procedure)
+       [dbo].[DeleteClientAccount] (Procedure)
+       [dbo].[GetClientAccountDetails] (Procedure)
+       [dbo].[GetClientAccountDetailsById] (Procedure)
+       [dbo].[UpdateClientAccount] (Procedure)
+
+** Supporting actions

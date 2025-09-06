@@ -1,0 +1,6 @@
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.DB\bin\Debug\Hospital.Group1.DB.dacpac
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.DB\bin\Debug\Hospital.Group1.DB.dll
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.DB\bin\Debug\Hospital.Group1.DB.pdb
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.DB\obj\Debug\Hospital.Group1.DB.sqlproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.DB\obj\Debug\Hospital.Group1.DB.dll
+C:\Users\USER\Downloads\Hotel.Group8.App-main\Hotel.Group8.App-main\Hospital.Group1.DB\obj\Debug\Hospital.Group1.DB.pdb

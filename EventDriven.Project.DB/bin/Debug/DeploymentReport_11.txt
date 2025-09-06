@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Client].[Birtdate] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Client] (Table)
+       [dbo].[CreateClientAccount] (Procedure)
+       [dbo].[GetClientAccountDetails] (Procedure)
+       [dbo].[GetClientAccountDetailsById] (Procedure)
+       [dbo].[UpdateClientAccount] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[DeleteClientAccount] (Procedure)
+
+The column [dbo].[Client].[Birtdate] is being dropped, data loss could occur.
+
