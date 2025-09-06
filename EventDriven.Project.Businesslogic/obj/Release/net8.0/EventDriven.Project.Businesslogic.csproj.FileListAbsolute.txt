@@ -1,0 +1,2 @@
+C:\Users\USER\OneDrive\Documents\STI\SY2025-2026\1stSem\Event-Driven\EventDriven.Project.App\EventDriven.Project.App\EventDriven.Project.App\EventDriven.Project.Businesslogic\obj\Release\net8.0\EventDriven.Project.Businesslogic.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\STI\SY2025-2026\1stSem\Event-Driven\EventDriven.Project.App\EventDriven.Project.App\EventDriven.Project.App\EventDriven.Project.Businesslogic\obj\Release\net8.0\EventDriven.Project.Businesslogic.GeneratedMSBuildEditorConfig.editorconfig
